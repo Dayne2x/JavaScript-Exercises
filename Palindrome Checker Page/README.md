@@ -16,7 +16,7 @@ This is a simple palindrome checker function I created while, working on a fCC c
 ## Overview
 
 ### Screenshot
-| ![](./design/design.png) 
+| ![](./design/preview.png) 
 | ------------------------------ |
 | Design Preview                |
 
